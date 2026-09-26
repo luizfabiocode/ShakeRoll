@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ShakeRoll</string>
+    <string name="shake_to_roll">Shake device to roll</string>
+    <string name="tap_to_roll">Or tap die to roll</string>
+    <string name="rolling">Rolling...</string>
+    <string name="rolled_a">Rolled a %1$d</string>
+    <string name="total_rolls">Total Rolls: %1$d</string>
+    <string name="shake_sensitivity">Sensitivity: %1$s</string>
+    <string name="die_description">6-sided die showing %1$d</string>
+</resources>

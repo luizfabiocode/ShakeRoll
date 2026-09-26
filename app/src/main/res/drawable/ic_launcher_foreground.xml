@@ -1,0 +1,35 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Die shadow / base -->
+    <path
+        android:fillColor="#1A000000"
+        android:pathData="M26,30 h56 a10,10 0 0 1 10,10 v56 a10,10 0 0 1 -10,10 h-56 a10,10 0 0 1 -10,-10 v-56 a10,10 0 0 1 10,-10 z" />
+    <!-- Die Body (White rounded square) -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M28,26 h52 a10,10 0 0 1 10,10 v52 a10,10 0 0 1 -10,10 h-52 a10,10 0 0 1 -10,-10 v-52 a10,10 0 0 1 10,-10 z" />
+    <!-- 5 Dots (Red & Dark Violet) -->
+    <!-- Top Left Dot -->
+    <path
+        android:fillColor="#E94560"
+        android:pathData="M38,44 a5,5 0 1,0 0.01,0 Z" />
+    <!-- Top Right Dot -->
+    <path
+        android:fillColor="#E94560"
+        android:pathData="M70,44 a5,5 0 1,0 0.01,0 Z" />
+    <!-- Center Dot -->
+    <path
+        android:fillColor="#E94560"
+        android:pathData="M54,62 a5,5 0 1,0 0.01,0 Z" />
+    <!-- Bottom Left Dot -->
+    <path
+        android:fillColor="#E94560"
+        android:pathData="M38,80 a5,5 0 1,0 0.01,0 Z" />
+    <!-- Bottom Right Dot -->
+    <path
+        android:fillColor="#E94560"
+        android:pathData="M70,80 a5,5 0 1,0 0.01,0 Z" />
+</vector>

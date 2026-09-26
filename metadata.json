@@ -1,0 +1,6 @@
+{
+  "name": "ShakeRoll",
+  "description": "A physical shake-to-roll 6-sided dice application with accelerometer detection, haptic feedback, and smooth rolling animations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
